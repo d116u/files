@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>出错啦</title>
+        <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+        <meta content="yes" name="apple-mobile-web-app-capable" />
+        <meta content="black" name="apple-mobile-web-app-status-bar-style" />
+        <meta name="format-detection" content="telephone=no" />
+        
+        <style>
+            /**/
+            /* CSS crunched with Crunch - http://crunchapp.net/ */
+            *{margin:0;padding:0;}
+            table{border-collapse:collapse;border-spacing:0;}
+            h1,h2,h3,h4,h5,h6{font-size:100%;}
+            ul,ol,li{list-style:none;}
+            em,i{font-style:normal;}
+            img{border:none;}
+            input,img{vertical-align:middle;}
+            body{color:#000;font-family:arial;background:#FFF;}
+            .clearfix:after{display:block;content:'';clear:both;visibility:hidden;}
+            .none{display:none;}
+            .no-spacing{margin:0;padding:0;}
+            .margin-center{margin:0 auto;text-align:center;}
+            body{background-color:#eeeeee !important;}
+            #tbh5v0{}#tbh5v0 .fullscreen,#tbh5v0 .landscape{width:320px !important;margin:auto;background-color:#eeeeee;}
+            #tbh5v0 .c-msg{color:#333333;font-size:14px;width:100%;}#tbh5v0 .c-msg .c-msg-tip{margin-top:30px;}#tbh5v0 .c-msg .c-msg-tip h1{color:#333333;font-size:16px;}
+            #tbh5v0 .c-msg .c-msg-tip .error{color:#d40000;font-size:14px;}
+            #tbh5v0 .c-msg .c-msg-img{height:151px;background:url(http://a.tbcdn.cn/mw/base/styles/component/msg/images/c-msg-bg.gif) no-repeat;margin-top:30px;}#tbh5v0 .c-msg .c-msg-img.warn{background-position:center 0;}
+            #tbh5v0 .c-msg .c-msg-img.ok{background-position:center -156px;}
+            #tbh5v0 .c-msg .c-msg-img.error{background-position:center -312px;}
+            #tbh5v0 .c-msg .c-msg-info{margin-top:30px;}#tbh5v0 .c-msg .c-msg-info p{text-align:center;}
+        </style>
+    </head>
+    <body scroll="none" class="">
+        <div id="tbh5v0">
+            <div  class="order-wrap fullscreen">
+                <section id="J_Main" class="main">
+                    <div class="c-msg">
+                        <section class="c-msg-img error"></section>
+                        <section class="c-msg-info">
+                            <p>啊哦，页面罢工中~</p>
+                            <p></p>
+                        </section>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </body>
+</html>
